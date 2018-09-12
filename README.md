@@ -1,0 +1,2 @@
+# WSDM-Churn_Prediction
+This project aims at formulating an algorithm which will help in determining why a user leaves/quits a subscription, helping KKBOX to maintain the subscribed users.  The data set for this project is available on the website (https://www.kaggle.com/c/kkbox-churn-prediction-challenge/data). The training and the test data are selected from users whose membership expire within a certain month. 
